@@ -1,38 +1,32 @@
 # Insulin-Pump-Sim
-Simulation of Insulin pump for controlling diabetes. 
 
-Members: 
-Gloria Li
-Shirley Huang
-Alex Bon
-Niket Rathod
+Simulation of an insulin pump for controlling diabetes.
 
+## Team Members
 
-Design Documents: 
- Link to Simulation - TBD
- Use case model - UseCase.pdf
- UML Class diagram - UML.png
- State Machine Diagram:
-    - Bolus State Machine Diagram.png
-    - Control IQ State Machine Diagram.png
-    - Error Handler State Machine Diagram.png
-    - Insulin Pump State Machine Diagram.png
-    - UI Navigation State Machine Diagram.png
- Sequence Diagram:
-    - Login/ProfileManagement.png
-    - ManualBolus.png
-    - ExtendedBolus.png
-    - BasalDelivery.png
-    - Navigation/HistoryLogging
-    - Charging/ErrorHandling
+- Gloria Li
+- Shirley Huang
+- Alex Bon
+- Niket Rathod
 
- Qt/C++ Project
-    - Insulin-Pump-Sim
+## Design Documents
 
- Discussion of design decisions
-    - DesignDecision.pdf
+### Simulation
+- **Link to Simulation:** TBD
 
+### Use Case Model
+- [UseCase.pdf](UseCase.pdf)
 
- Requirement Traceability Matrix
-    - TraceabilityMatrix.pdf
+### UML Class Diagram
+- [UML.png](UML.png)
 
+### State Machine Diagrams
+- [Bolus State Machine Diagram.png](Bolus%20State%20Machine%20Diagram.png)
+- [Control IQ State Machine Diagram.png](Control%20IQ%20State%20Machine%20Diagram.png)
+- [Error Handler State Machine Diagram.png](Error%20Handler%20State%20Machine%20Diagram.png)
+- [Insulin Pump State Machine Diagram.png](Insulin%20Pump%20State%20Machine%20Diagram.png)
+- [UI Navigation State Machine Diagram.png](UI%20Navigation%20State%20Machine%20Diagram.png)
+
+### Sequence Diagrams
+- [Login/ProfileManagement.png](Login/ProfileManagement.png)
+- [Manual Bolus.png](Manual%20Bolus.png)
