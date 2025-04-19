@@ -2,6 +2,11 @@
 
 Simulation of an insulin pump for controlling diabetes.
 
+# Demonstrations: 
+https://youtu.be/Q0SSV6Ac_ak
+
+
+
 ## Team Members
 
 - Gloria Li
